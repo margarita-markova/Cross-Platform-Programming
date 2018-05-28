@@ -1,13 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ae986e3-c5d8-4368-86f4-49e159ae83f3" name="Default" comment="" />
+    <list default="true" id="1ae986e3-c5d8-4368-86f4-49e159ae83f3" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../README.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/config-classes/$1e73f14f291656c7b898$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/config-classes/$1e73f14f291656c7b898.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/config-classes/$1e73f14f291656c7b898.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/config-classes/$6039465977acdd8d25e3$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/config-classes/$6039465977acdd8d25e3.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/config-classes/$6039465977acdd8d25e3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/config-classes/$b4d7c917a0ea033c9fb5$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/config-classes/$b4d7c917a0ea033c9fb5.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/config-classes/$b4d7c917a0ea033c9fb5.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/config-classes/$b68910c4ea9e005a56da$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/config-classes/$b68910c4ea9e005a56da.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/config-classes/$b68910c4ea9e005a56da.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/config-classes/$e15f92a7a749def198ac$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/config-classes/$e15f92a7a749def198ac.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/config-classes/$e15f92a7a749def198ac.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scalaaaa-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scalaaaa-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scalaaaa-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scalaaaa-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalaaaa-build-compile-internal.xml" afterPath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalaaaa-build-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalaaaa-build-compile.xml" afterPath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalaaaa-build-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalaaaa-build-optional.xml" afterPath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalaaaa-build-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalaaaa-build-plugin.xml" afterPath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalaaaa-build-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalaaaa-build-pom.xml" afterPath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalaaaa-build-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalaaaa-build-provided.xml" afterPath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalaaaa-build-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalaaaa-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalaaaa-build-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalaaaa-build-runtime.xml" afterPath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalaaaa-build-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalaaaa-build-scala-tool.xml" afterPath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalaaaa-build-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalaaaa-build-test-internal.xml" afterPath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalaaaa-build-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalaaaa-build-test.xml" afterPath="$PROJECT_DIR$/scalaaaa/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalaaaa-build-test.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/scalaaaa/project/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/scalaaaa/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/scalaaaa/project/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/scalaaaa/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/scalaaaa/project/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/scalaaaa/project/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/scalaaaa/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/.history" afterPath="$PROJECT_DIR$/scalaaaa/target/.history" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/default/scalaaaa$sources/0.1/resolved.xml.properties" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/default/scalaaaa$sources/0.1/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/default/scalaaaa$sources/0.1/resolved.xml.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/default/scalaaaa$sources/0.1/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/default/scalaaaa_2.12/0.1/resolved.xml.properties" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/default/scalaaaa_2.12/0.1/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/default/scalaaaa_2.12/0.1/resolved.xml.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/default/scalaaaa_2.12/0.1/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa$sources-compile-internal.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa$sources-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa$sources-compile.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa$sources-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa$sources-optional.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa$sources-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa$sources-plugin.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa$sources-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa$sources-pom.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa$sources-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa$sources-provided.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa$sources-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa$sources-runtime-internal.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa$sources-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa$sources-runtime.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa$sources-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa$sources-scala-tool.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa$sources-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa$sources-test-internal.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa$sources-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa$sources-test.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa$sources-test.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa_2.12-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa_2.12-compile.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa_2.12-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa_2.12-optional.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa_2.12-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa_2.12-plugin.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa_2.12-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa_2.12-pom.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa_2.12-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa_2.12-provided.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa_2.12-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa_2.12-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa_2.12-runtime.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa_2.12-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa_2.12-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa_2.12-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa_2.12-test.xml" afterPath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/resolution-cache/reports/default-scalaaaa_2.12-test.xml" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/scala-2.12/test-classes/ExtremumTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/streams/$global/$global/dumpStructure/$global/streams/out" afterPath="$PROJECT_DIR$/scalaaaa/target/streams/$global/$global/dumpStructure/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterPath="$PROJECT_DIR$/scalaaaa/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/scalaaaa/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/scalaaaa/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change beforePath="$PROJECT_DIR$/scalaaaa/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/scalaaaa/target/streams/$global/updateClassifiers/$global/streams/out" />
+    </list>
+    <ignored path="$PROJECT_DIR$/scalaaaa/target/" />
+    <ignored path="$PROJECT_DIR$/scalaaaa/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/scalaaaa/project/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/scalaaaa">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scalaaaa/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AllTest.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scalaaaa/src/test/scala/AllTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Source.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scalaaaa/src/main/scala/Source.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -26,6 +150,7 @@
     <option name="width" value="1386" />
     <option name="height" value="788" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -93,10 +218,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -124,6 +249,20 @@
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="Source" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Source" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="scalaaaa" />
+      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -199,10 +338,44 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Source" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="scalaaaa" />
+              <option name="path" value="$PROJECT_DIR$/scalaaaa" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="scalaaaa" />
+                <option name="path" value="$PROJECT_DIR$/scalaaaa" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="scalaaaa-build" />
+                <option name="path" value="$PROJECT_DIR$/scalaaaa/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/scalaaaa" value="RE_IMPORT" />
+      </map>
     </option>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -218,42 +391,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527456226271</updated>
-      <workItem from="1527456232576" duration="368000" />
+      <workItem from="1527456232576" duration="2282000" />
+      <workItem from="1527499058998" duration="595000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="368000" />
+    <option name="totallyTimeSpent" value="2877000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="sbt" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25036603" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,5 +442,55 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scalaaaa/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalaaaa/src/test/scala/AllTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalaaaa/src/main/scala/Source.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalaaaa/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalaaaa/src/test/scala/AllTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalaaaa/src/main/scala/Source.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
