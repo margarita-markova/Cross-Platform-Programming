@@ -1,4 +1,5 @@
 # Cross-Platform-Programming
+<<<<<<< HEAD
 Java (JavaFX, SWT, Swing), Scala small study projects
 
 BSUIR tasks, VMSIS team, 15 variant.
@@ -26,3 +27,5 @@ lab001:
    - multithreading training. Standard produser and consumer task with my own buffer. 
   
 Bonus: you can find Javadoc everywhere! It sometimes useful.
+=======
+>>>>>>> labsAdd
