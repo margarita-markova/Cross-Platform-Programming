@@ -26,22 +26,22 @@ lab001:
    - for GUI used SWT (which created just for Eclipse). Please, don't try do this yourselves, because Eclipse + SWT = pain. Sorry, but it is truth.
    - multithreading training. Standard produser and consumer task with my own buffer. 
    
-  lab005:
-    - it made with love, but it is not ideal. It has constructions if-else.
-    - there are two tasks: calculate average and array's extremum.
-    - tests here.
+ lab005:
+   - it made with love, but it is not ideal. It has constructions if-else.
+   - there are two tasks: calculate average and array's extremum.
+   - tests here.
     
-  lab006:
-    - inside in the Main.scala you can find comments, where i write tasks. But i write them again here.
-    - first: reverse all words in the collection, but save their order.
-    - second: implement "flatten" using "fold"
-    - third: we have List[String], generate List[Int]. Example: List("1", "bb", "-9", "++") -> List(1, -9)
+ lab006:
+   - inside in the Main.scala you can find comments, where i write tasks. But i write them again here.
+   - first: reverse all words in the collection, but save their order.
+   - second: implement "flatten" using "fold"
+   - third: we have List[String], generate List[Int]. Example: List("1", "bb", "-9", "++") -> List(1, -9)
     
   lab007:
-    - divide simple nubers by 2, composite - by 3, using match pattern
-    - one easy task with OS mainly implements in tests
+   - divide simple nubers by 2, composite - by 3, using match pattern
+   - one easy task with OS mainly implements in tests
     
-    Functional programming can be useful for you in future. I recommend learn the Scala. But russian sources are minimal and poor. 
-    Scala has a very beautiful documentation, you can find it here: https://docs.scala-lang.org/style/scaladoc.html#  
+   Functional programming can be useful for you in future. I recommend learn the Scala. But russian sources are minimal and poor. 
+   Scala has a very beautiful documentation, you can find it here: https://docs.scala-lang.org/style/scaladoc.html#  
   
-Bonus: you can find Javadoc everywhere! It sometimes useful. (note for labs 001-004)
+   Bonus: you can find Javadoc everywhere! It sometimes useful. (note for labs 001-004)
